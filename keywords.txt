@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For FiniteState
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+EasyFSM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Reset		KEYWORD2
+Write		KEYWORD2
+Next		KEYWORD2
+Set			KEYWORD2
+SetNext		KEYWORD2
+Execute		KEYWORD2
+SetFunctions		KEYWORD2
+
+#######################################
+# Properties and Constants (LITERAL1)
+#######################################
+Write		LITERAL1
+Action		LITERAL1
+Param		LITERAL1
+State		LITERAL1
+NextState	LITERAL1
+S_HALT		LITERAL1
+C_ELSE		LITERAL1
+A_NONE		LITERAL1
+C_BREAK		LITERAL1
