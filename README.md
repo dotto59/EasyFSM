@@ -1,7 +1,5 @@
 # EasyFSM
-Easy FiniteState machine for Arduino.
-
-Italian version: aprire "README-IT.txt"
+Easy Finite State Machine for Arduino.
 ## Definition
 This library lets you easily implement Finite State Machines (FSM) over Arduino boards.
 ## Installation
